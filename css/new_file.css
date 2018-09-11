@@ -1,0 +1,81 @@
+*{
+	margin: auto;
+}
+a {
+	color: #1abc9c;
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: gainsboro;
+	font-weight: 800;
+}
+body {
+	background-color:whitesmoke
+}
+header {
+	height: 35px; 
+	width: 100%;
+}
+.logo {
+	color: #1ccba8;
+	font-size: 33px;
+	font-family: arial;
+	text-align: center;
+}
+.guiding{
+	float: right;
+	color: #1edab5;
+	font-size: 28px;
+	font-family: arial;
+}
+.hchildren{
+	float: right;
+	height: 35px;
+    width: 84%;
+}
+.h{
+	float: left;
+	height: 35px;
+	width: 16%;
+}
+.splitdiv{
+	height: 50px;
+	width: 240px;
+}
+.split1{
+	font-family: arial;
+	color: #1abc9c;
+}
+.split2{
+	border-bottom: 1px solid gray;
+}
+.split3{
+	background-color: #1ABC9C;
+	height: 3px;
+	width: 50px;
+}
+.content{
+	float: left;
+	width: 50%;
+}
+.content1{
+	width: 100%;
+	height: 200px;
+}
+img{
+	float: left;
+	margin-left: 10%;
+}
+.tip{
+	font-size: 28px;
+	color: #1ABC9C;
+	font-family: arial;
+}
+.cont{
+	margin-left: 0;
+	font-size: 20px;
+	font-family: arial;
+}
+
+
